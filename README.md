@@ -20,4 +20,4 @@ Original code by Trilogy [Repository](https://git.bootcampcontent.com/uk-edx-16-
 ## License
 © 2022 Horiseon Social Solution Services, Inc. All Rights Reserved.
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](/LICENSE) license.
