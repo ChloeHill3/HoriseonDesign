@@ -8,7 +8,7 @@ It aims to solve Horiseon's accessibility issues for users that may have disabil
 
 
 ## Navigation
-This [Horiseon](link) webpage contains a navigation bar, header image, sections with written information and images. You can view these sections by clicking the links or scrolling through the page.
+This [Horiseon webpage](https://chloehill3.github.io/HoriseonDesign/) contains a navigation bar, header image, sections with written information and images. You can view these sections by clicking the links or scrolling through the page.
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](/assets/images/capture-horiseon.png)
 
